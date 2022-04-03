@@ -9,3 +9,8 @@ export enum FilterOption {
   SHOW_COMPLETED = 'Show Completed',
   SHOW_UNCOMPLETED = 'Show Uncompleted',
 };
+
+export type UserModel = {
+  id: number;
+  name: string;
+}
