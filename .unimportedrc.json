@@ -1,0 +1,10 @@
+{
+  "entry": ["src/index.tsx"],
+  "ignorePatterns": [
+    "**/node_modules/**",
+    "**/*.d.ts"
+  ],
+  "ignoreUnimported": ["src/index.tsx"],
+  "ignoreUnresolved": [],
+  "ignoreUnused": ["react-scripts"]
+}
